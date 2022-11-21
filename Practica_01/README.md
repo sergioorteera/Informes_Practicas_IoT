@@ -27,7 +27,7 @@
    
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/9.PNG?raw=true)
 
-3. Reconocimiento de herramientas de red: Identificar configuración de red por medio del comando ip e ifconfig. Identificar servicios y puertos ocupados en el      sistema con los comandos ss, netstat y lsof.
+3. Reconocimiento de herramientas de red: Identificar configuración de red por medio del comando ip e ifconfig. Identificar servicios y puertos ocupados en      el sistema con los comandos ss, netstat y lsof.
 
    comando ip:
    
@@ -49,7 +49,12 @@
    
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/lsof.PNG?raw=true)
 
-4. Identificar servicios desplegados: El estudiante deberá identificar 5 servicios diferentes listados por las herramientas de red y determinar a qué              aplicaciones posiblemente están relacionados.
+4. Identificar servicios desplegados: El estudiante deberá identificar 5 servicios diferentes listados por las herramientas de red y determinar a qué            aplicaciones posiblemente están relacionados.
+
+   Servidor X11 es el servidor de la interfaz gráfica.
+
+   ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/servicio1.PNG?raw=true)
+
 5. Evaluar scripts en Python: Al estudiante se le entregarán scripts en Python para desplegar un ejemplo de cliente servidor con protocolos TCP y UDP, el        estudiante evaluará el rendimiento de los dos servicios y debe descubrir la ocupación de los puertos por medio de las herramientas previamente                estudiadas.
    
    ## Servidor TCP:
