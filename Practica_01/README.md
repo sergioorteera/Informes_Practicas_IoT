@@ -2,7 +2,11 @@
 **Por** *Sergio Erazo*
 
 ## Desarrollo de la práctica - Evidencia
-1. Configuración del entorno: El estudiante deberá configurar su dispositivo de elección para ejecutar una imagen virtualizada de Linux, este será un suministro    importante para el resto de prácticas.
+1. Configuración del entorno: El estudiante deberá configurar su dispositivo de elección para ejecutar una imagen virtualizada de Linux, este será un suministro importante para el resto de prácticas.
+
+   La imagen virtualizada de Linux que escogí: Debian con Raspberry Pi Desktop.
+   
+   También se realizó la instalación de las Guest Additions.
    
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/1.PNG?raw=true)
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/2.PNG?raw=true)
@@ -13,8 +17,14 @@
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/7.PNG?raw=true)
 
 2. Instalar docker.
+
+   Se realizó la instalación del Docker correctamente, pero a la hora de usar cualquier comando para su uso es necesario usar "sudo"
+   debido a que no me dejo agregar mi usuario al grupo de Docker.
    
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/8.PNG?raw=true)
+   
+   Comprobación de la instalación de Docker llamando a "sudo docker pull hello-world".
+   
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/9.PNG?raw=true)
 
 3. Reconocimiento de herramientas de red: Identificar configuración de red por medio del comando ip e ifconfig. Identificar servicios y puertos ocupados en el      sistema con los comandos ss, netstat y lsof.
