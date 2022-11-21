@@ -42,7 +42,7 @@
 4. Identificar servicios desplegados: El estudiante deberá identificar 5 servicios diferentes listados por las herramientas de red y determinar a qué              aplicaciones posiblemente están relacionados.
 5. Evaluar scripts en Python: Al estudiante se le entregarán scripts en Python para desplegar un ejemplo de cliente servidor con protocolos TCP y UDP, el        estudiante evaluará el rendimiento de los dos servicios y debe descubrir la ocupación de los puertos por medio de las herramientas previamente                estudiadas.
    
-   Servidor TCP:
+   ## Servidor TCP:
    
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/Servidor_tcp.PNG?raw=true)
    
@@ -50,7 +50,7 @@
    
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/servidor_tcp_2.PNG?raw=true)
    
-   Servidor UDP:
+   ## Servidor UDP:
    
    ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/Servidor_tcp.PNG?raw=true)
    
