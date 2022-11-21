@@ -44,10 +44,26 @@
    
    Servidor TCP:
    
-   ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/Servidor tcp.PNG?raw=true)
+   ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/Servidor_tcp.PNG?raw=true)
    
-   ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/servidor tcp 2.PNG?raw=true)
+   Ocupación del puerto:
    
+   ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/servidor_tcp_2.PNG?raw=true)
+   
+   Servidor UDP:
+   
+   ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/Servidor_tcp.PNG?raw=true)
+   
+   Ocupación del puerto:
+   
+   ![Imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_01/Imagenes/servidor_tcp_2.PNG?raw=true)
+   
+   
+   TCP: Es un protocolo de internet estandar para la transmisión de datos el cual utiliza validaciones es decir que cuandose envia un mensaje, es necesario      que se reciba otro mensaje de confirmación
+   
+   UDP: Es un protocolo para streams, este protocolo no usa validaciones, simplemente alguien puede estar recibiendo el stream de datos o no.
+   
+   El uso de estos protocolos depende del contexto en el cual se vayan a usar.
    
    
    
