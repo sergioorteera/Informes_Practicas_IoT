@@ -80,11 +80,3 @@
    
    El uso de estos protocolos depende del contexto en el cual se vayan a usar.
    
-   
-   
-   
-   
-   
-   
-   
-   
