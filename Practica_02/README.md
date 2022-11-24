@@ -6,27 +6,34 @@
 
   1. En debian, ubuntu, raspbian, etc. Abrir la terminal y ejecutar el comando:
 
-    ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/1.PNG?raw=true)
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/1.PNG?raw=true)
 
   2. Actualizar Nodejs:
 
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/2.PNG?raw=true)
 
   3. Validar las versiones instaladas, ejecute:
 
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/3.PNG?raw=true)
 
   4. Creando un espacio para los recursos globales en nodejs:
 
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/4.PNG?raw=true)
 
   5. Finalmente, para instalar NestJS se deben ejecutar los comandos:
 
-
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/5.PNG?raw=true)
 
 **II. Ejecutando el ejemplo Hello World**
+
+  Para esta parte cambie de maquina virtual debido a unos errores que me aparecían, el profesor me ayudo con esto en una asesoría.
    
   1. Para iniciar seleccione o cree una carpeta donde se alojará el proyecto.
   
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/6.PNG?raw=true)
   
   2. Crear un proyecto NestJS ejecutando el comando nest new, para el nombre del proyecto no usar espacios ni caracteres especiales.
+  
   
   
   3. Es necesario identificar la dirección IP de la máquina.  
