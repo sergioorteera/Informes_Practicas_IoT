@@ -6,6 +6,7 @@
 
   1. En debian, ubuntu, raspbian, etc. Abrir la terminal y ejecutar el comando:
 
+    !(https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/1.PNG?raw=true)
 
   2. Actualizar Nodejs:
 
