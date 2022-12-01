@@ -83,7 +83,10 @@ La terminal responderá con la siguiente información:
 Servidor listo para recibir peticiones.
 
 Nombre completo: Sergio Eduardo Erazo Ortega.
-Nombre de la asignatura: Electiva Desarrollo de Software - Web Semántica loT
-Fecha de realización: 1/12/2022
+
+Nombre de la asignatura: Electiva Desarrollo de Software - Web Semántica loT.
+
+Fecha de realización: 1/12/2022.
+
 Link del repositorio del servidor: https://github.com/sergioorteera/Practica_02_servidor
 
