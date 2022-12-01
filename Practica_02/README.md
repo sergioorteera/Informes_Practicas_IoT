@@ -73,3 +73,17 @@ La terminal responderá con la siguiente información:
 ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/17.PNG?raw=true)
 
 ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/18.PNG?raw=true)
+
+*PUNTO 8*
+
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/19.PNG?raw=true)
+
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/20.PNG?raw=true)
+
+ Implementación de los verbos HTTP y comprobación con el programa postman
+
+ Nombre completo: Sergio Eduardo Erazo Ortega.
+ Nombre de la asignatura: Electiva Desarrollo de Software - Web Semántica loT
+ Fecha de realización: 1/12/2022
+ Link del repositorio del servidor: 
+
