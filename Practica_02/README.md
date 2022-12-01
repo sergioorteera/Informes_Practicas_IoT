@@ -80,10 +80,10 @@ La terminal responderá con la siguiente información:
 
 ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_02/Imagenes/20.PNG?raw=true)
 
- Implementación de los verbos HTTP y comprobación con el programa postman
+Servidor listo para recibir peticiones.
 
- Nombre completo: Sergio Eduardo Erazo Ortega.
- Nombre de la asignatura: Electiva Desarrollo de Software - Web Semántica loT
- Fecha de realización: 1/12/2022
- Link del repositorio del servidor: 
+Nombre completo: Sergio Eduardo Erazo Ortega.
+Nombre de la asignatura: Electiva Desarrollo de Software - Web Semántica loT
+Fecha de realización: 1/12/2022
+Link del repositorio del servidor: https://github.com/sergioorteera/Practica_02_servidor
 
