@@ -30,7 +30,18 @@
 
 ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_03/Imagenes/6.PNG?raw=true)
 
-   3. Asi mismo se creará un módulo para gestionar usuarios.
+   3. Asi mismo se creará un módulo para gestionar usuarios con los comandos:
    
+      nest g module users
+      
+      nest g service users
 
-   4. 
+   4. Enpoint POST del servidor.
+   
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_03/Imagenes/7.PNG?raw=true)
+
+**III. Autenticación con JWT**
+
+
+
+
