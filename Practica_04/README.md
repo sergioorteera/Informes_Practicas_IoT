@@ -44,8 +44,20 @@ Link del repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree
 
 **II. Conectado a una base de datos**
 
-
-
+  1. URL mongo.
+  
+  2. Modifique el archivo src/app.module.ts.
+  
+  3. Cree un archivo para modelar la entidad.
+  
+  4. Es necesario modificar los métodos para que utilicen el repositorio.
+  
+  También fue necesario modificar los archivos de tablets.controller.ts y tabletsImpl.controller.ts para que usaran la entidad creada anteriormente.
+  
+  5. Finalmente, si se ejecuta el proyecto localmente con npm run start:dev, ejecute un POST para crear un nuevo elemento. Si la respuesta es satisfactoria y si al        ejecutar el GET se recupera el elemento creado, entonces la conexión con la base de datos fue exitosa.
+  
+  
+  Link del repositorio: 
 
 
 
