@@ -44,6 +44,9 @@ Link repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree/pra
 
 **III. Autenticación con JWT**
 
+   1.Para implementar la autenticación con JWT se debe instalar el paquete @nestjs/jwt:
+   
+   
 
 
 
