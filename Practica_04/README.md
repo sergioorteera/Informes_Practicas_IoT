@@ -5,7 +5,7 @@
 
   1. Descargar deta ejecutando en la terminal:
 
-
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/1.PNG?raw=true)
 
   2. Agregando la variable de entorno:
 
