@@ -46,7 +46,21 @@ Link repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree/pra
 
    1.Para implementar la autenticación con JWT se debe instalar el paquete @nestjs/jwt:
    
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_03/Imagenes/8.PNG?raw=true)
    
+   2. Generar Token.
+   
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_03/Imagenes/9.PNG?raw=true)
+
+   3. Proteja los endpoints que tengan capacidad de modificar o eliminar registros.
+   
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_03/Imagenes/12.PNG?raw=true)
+
+   4. Evidencia del funcionamiento de los endpoints protegidos.
+   
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_03/Imagenes/13.PNG?raw=true)
+
+Link repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree/practica_03_JWT
 
 
 
