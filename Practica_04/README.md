@@ -72,8 +72,13 @@ Link del repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree
 
 ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/15.PNG?raw=true)
   
+  Como se puede observar a la hora de ejecutar el servidor aparece un error para conectarse con Mongo, intente solucionar este error
+  revisando que la URL de conexión estuviera correctamente el usuario y el pass. 
+  También validé la conexión a internet de la máquina.
+  Comprobé la URL de la base de datos conectando con mongo compass.
+  A mi criterio todo esta funcionando bien pero no logré solucionar dicho error.
   
-  Link del repositorio: 
+  Link del repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree/practica_04_BD
 
 
 
