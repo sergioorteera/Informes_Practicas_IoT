@@ -16,26 +16,23 @@
 
 
   4. Crear un punto de entrada de la aplicación. El archivo src/index.ts debe quedar de la siguiente forma:
+     En la raíz del proyecto crear un nuevo archivo index.js con el siguiente contenido:
 
 
 
-  5. En la raíz del proyecto crear un nuevo archivo index.js con el siguiente contenido:
+  5. Antes de publicar debemos compilar el proyecto. Para ello ejecutamos en la terminal:
+
+
+  6. Publicar la aplicación ejecutando en la terminal:
 
 
 
-  6. Antes de publicar debemos compilar el proyecto. Para ello ejecutamos en la terminal:
-
-
-  7. Publicar la aplicación ejecutando en la terminal:
+  7. Para desplegar la aplicación ejecutamos en la terminal:
 
 
 
-  8. Para desplegar la aplicación ejecutamos en la terminal:
+  8. Para activar los logs de la aplicación ejecutamos en la terminal:
 
 
 
-  9. Para activar los logs de la aplicación ejecutamos en la terminal:
-
-
-
-  10. Respuesta implementada en el método get del servicio:
+  9. Respuesta implementada en el método get del servicio:
