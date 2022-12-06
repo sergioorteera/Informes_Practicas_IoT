@@ -40,7 +40,7 @@
    
 ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_03/Imagenes/7.PNG?raw=true)
 
-Link repositorio: 
+Link repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree/practica_03_seguridad
 
 **III. Autenticación con JWT**
 
