@@ -46,29 +46,31 @@ Link del repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree
 
   1. Instalar las dependencias de TypeORM y MongoDB.
 
-
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/9.PNG?raw=true)
 
   2. URL mongo.
 
-![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/9.PNG?raw=true)
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/10.PNG?raw=true)
   
   3. Modifique el archivo src/app.module.ts.
 
-![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/10.PNG?raw=true)
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/11.PNG?raw=true)
   
   4. Cree un archivo para modelar la entidad.
 
-![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/11.PNG?raw=true)
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/12.PNG?raw=true)
   
   5. Es necesario modificar los métodos para que utilicen el repositorio.
 
-![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/12.PNG?raw=true)
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/13.PNG?raw=true)
+
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/14.PNG?raw=true)
   
   También fue necesario modificar los archivos de tablets.controller.ts y tabletsImpl.controller.ts para que usaran la entidad creada anteriormente.
   
   6. Finalmente, si se ejecuta el proyecto localmente con npm run start:dev, ejecute un POST para crear un nuevo elemento. Si la respuesta es satisfactoria y si al        ejecutar el GET se recupera el elemento creado, entonces la conexión con la base de datos fue exitosa.
 
-![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/13.PNG?raw=true)
+![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/15.PNG?raw=true)
   
   
   Link del repositorio: 
