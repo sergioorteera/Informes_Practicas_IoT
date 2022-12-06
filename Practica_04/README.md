@@ -3,6 +3,8 @@
 
 ## Desarrollo de la práctica - Evidencia
 
+**I. Desplegar una aplicación en la nube**
+
   1. Descargar deta ejecutando en la terminal:
 
 ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/1.PNG?raw=true)
@@ -37,4 +39,8 @@
 ![imagen](https://github.com/sergioorteera/Informes_Practicas_IoT/blob/main/Practica_04/Imagenes/8.PNG?raw=true)
 
 En esta parte no pude solucionar el error, ya que debería mostrarme los datos del servicio. Cuando ejecuto el servidor de manera local y hago uso del GET si me muestra correctamente los valores. Revise el código, intente borrarlo y volver a hacer la práctica y no se soluciono.
+
+Link del repositorio: https://github.com/sergioorteera/Practica_02_servidor/tree/practica_04_noBD
+
+**II. Conectado a una base de datos**
 
